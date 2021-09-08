@@ -3,8 +3,6 @@
 
 var parola = "andrea";
 
-
-// // 2. Creare una funzione per capire se la parola inserita è palindroma
 function contrario (parola){
     var parolaInversa = "";
     for (var i = parola.length -1; i >= 0; i--) {
@@ -16,3 +14,4 @@ function contrario (parola){
 var parolaInversa = contrario(parola); 
 
 console.log(parolaInversa);
+
