@@ -20,7 +20,6 @@ function funzione(arr1, a, b){
         arrNuovo.push(arr1[i]);
     }
    return arrNuovo; 
-
 } 
  console.log(funzione(arr1, var1, var2));
 
