@@ -60,4 +60,4 @@ var somma = 0;
 for (var i = 0; i < zucchine.length; i++){
     somma += zucchine[i].peso;
 } 
-console.log(somma);
+console.log(`Il peso totale è: ${somma} gr`);
