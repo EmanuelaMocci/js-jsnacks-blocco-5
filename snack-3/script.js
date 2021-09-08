@@ -1,7 +1,7 @@
 // Scrivi una funzione che accetti una stringa come argomento e la ritorni
 // girata (es. Ciao -> oaiC)
 
-var parola = "andrea";
+var parola = "ciao";
 
 function contrario (parola){
     var parolaInversa = "";
